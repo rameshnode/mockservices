@@ -4,27 +4,27 @@
     "journeyid": "43e350e3-0c1d-4aae-ae30-8c53492b732aJRNY",
     "ordinal": 0,
     "stageid": "d496d7e9-33a5-471d-b2b8-2b6846004633STAG",
-    "stage": "sent",
+    "event": "sent",
     "stagecount": 100
   },
   {
     "journeyid": "43e350e3-0c1d-4aae-ae30-8c53492b732aJRNY",
     "ordinal": 1,
     "stageid": "7182dc89-d3e6-41f6-b820-47e173b1fe8eSTAG",
-    "stage": "rec",
+    "event": "rec",
     "stagecount": 60
   },
   {
     "journeyid": "43e350e3-0c1d-4aae-ae30-8c53492b732aJRNY",
     "ordinal": 2,
     "stageid": "f5aaf649-aad6-47bf-9982-04a9e5be4465STAG",
-    "stage": "read",
+    "event": "read",
     "stagecount": 40
   }
 ],
   "chartOptions": {
     "title" : "Journey Chart",
-    "xaxis" : "stage",
+    "xaxis" : "event",
     "yaxis" : "stagecount"
   }
 }
