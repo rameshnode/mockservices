@@ -23,6 +23,7 @@
   }
 ],
   "chartOptions": {
+    "title" : "Journey Chart",
     "xaxis" : "stage",
     "yaxis" : "stagecount"
   }
