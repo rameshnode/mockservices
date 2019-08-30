@@ -21,7 +21,11 @@
     "stage": "read",
     "stagecount": 40
   }
-]
+],
+  "chartOptions": {
+    "xaxis" : "stage",
+    "yaxis" : "stagecount"
+  }
 }
 
 
