@@ -33,17 +33,17 @@
             ],
         }
     ],
-        "chartOptions" : {
-        "chartType" : "Pie",
-		"chartTitle" : "Stage Counts by stage",
-		"xaxis" : {
-			"column" : "stage",
-			"title" : "stage"
-		},
-        "yaxis" : {
-            "column" : "stagecount",
-            "title" : "stagecount"
-        },
-        "sortBy" : "stage"
-    }
+	"chartOptions" : {
+	"chartType" : "Pie",
+	"chartTitle" : "Stage Counts by stage",
+	"xaxis" : {
+		"column" : "stage",
+		"title" : "stage"
+	},
+	"yaxis" : {
+		"column" : "stagecount",
+		"title" : "stagecount"
+	},
+	"sortBy" : "stage"
+	}
 }
