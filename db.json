@@ -1,5 +1,4 @@
 {
-	"dataSourceType": "sql/data",
 	"sql": {
 		"columnNames": "",
 		"tableName": "",
